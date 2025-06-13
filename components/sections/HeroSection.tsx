@@ -58,7 +58,7 @@ const HeroSection = () => {
                     size="lg"
                     className="bg-black text-white hover:bg-gray-800 transition-all duration-300 hover:scale-105 cursor-pointer opacity-0 translate-y-5"
                     onClick={() => {
-                        window.open('https://discord.gg/UHCs4VQR', '_blank');
+                        window.open('https://discord.com/invite/cSqnCkz98B', '_blank');
                     }}
                 >
                     모임 참여하기
